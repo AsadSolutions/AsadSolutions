@@ -69,12 +69,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=AsadSolutions&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AsadSolutions&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="AsadSolutions"/>
   <br>
-  <br>
-  <br>
 
-  <img src="https://next.ossinsight.io/widgets/official/compose-activity-trends/thumbnail.png?repo_id=41986369&image_size=auto" />
-
-   <br>
   <br>
   <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AsadSolutions&" alt="Asad" /></p>
@@ -106,7 +101,7 @@
 
 <a href="https://stackoverflow.com/users/23017094/asad-saeed" target="_blank"><img align="center" src="https://cdn0.iconfinder.com/data/icons/social-media-and-logos-11/32/logo_stackoverflow_Stack_overflow-1024.png" alt="asad saeed" height="30" width="30" /></a>
 
-<a href="https://www.instagram.com/asadsaeed__" target="_blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-1024.png" alt="@asadsaeed__" height="30" width="30" /></a>
+
 
 
 <p align="left"> <a href="https://asads.netlify.app/" target="blank">
