@@ -21,9 +21,14 @@
   <br>
   <br>
   <br>
-  <br>
 
   <img src="https://next.ossinsight.io/widgets/official/compose-activity-trends/thumbnail.png?repo_id=41986369&image_size=auto" />
+
+   <br>
+  <br>
+  <br>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AsadSolutions&" alt="Asad" /></p>
+  
 
 </a>
 </div>
@@ -37,7 +42,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AsadSolutions&label=Profile%20views&color=0e75b6&style=flat" alt="asadsolution" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AsadSolutions" alt="AsadSolutions" /></a> </p>
+
 
 <p align="left"> <a href="https://asads.netlify.app/" target="blank">
 <img src="https://img.shields.io/badge/click_to_check_my-Portfolio-blue" alt="asads.netlify.app" /></a> </p>
@@ -45,7 +50,7 @@
 
 
 
-<b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
 <p align="left"">
 
