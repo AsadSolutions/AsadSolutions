@@ -45,7 +45,8 @@
 
 
 
-<h3 align="left">Connect with me:</h3>
+<b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+<br>
 <p align="left"">
 
 <a href="https://www.linkedin.com/in/asad-saeed060/" target="blank"><img align="center" src="https://cdn0.iconfinder.com/data/icons/social-media-2474/128/linkedin_linked_interface_media_social_network-1024.png" alt="asad saeed" height="30" width="30" /></a>
