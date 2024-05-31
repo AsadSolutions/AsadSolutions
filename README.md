@@ -13,14 +13,14 @@
 <p align="center">
   </br>
   
-  <a href="https://git.io/streak-stats">
+  <a >
     <img src=https://streak-stats.demolab.com/?user=AsadSolutions&&theme=tokyonight&&hide_border=true&card_width=495>
   </a>
    
   </br>
   </br>
   
-  <a href="https://github.com/AsadSolutions/github-readme-stats">
+  <a>
     <img src=https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AsadSolutions&hide_border=true&langs_count=7&show_icons=true&card_width=495&theme=tokyonight />
   </a>
   
@@ -29,7 +29,7 @@
 
  
 
- <a href="https://github.com/AsadSolutions/github-readme-stats">
+ <a>
     <img src=https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AsadSolutions&hide_border=true&show_icons=true&theme=tokyonight&card_width=495 />
   </a>
  
