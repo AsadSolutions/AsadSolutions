@@ -27,10 +27,10 @@
   </br>
 
   <a href="https://github.com/AsadSolutions/github-readme-stats">
-    <img src=https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AsadSolutions&hide_border=true&show_icons=true&theme=tokyonight&card_width=495 />
+    <img src=https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AsadSolutions&hide_border=true&langs_count=7&show_icons=true&card_width=495&theme=tokyonight&hide=css />
   </a>
 
-  <img src=https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AsadSolutions&hide_border=true&langs_count=7&show_icons=true&card_width=495&theme=tokyonight&hide=css />
+ 
 
     
 </p>
