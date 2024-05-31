@@ -38,7 +38,6 @@
 
   <img src="https://img.shields.io/badge/-AWS-232f3e?style=for-the-badge&logo=amazonaws&logoColor=232f3e&labelColor=282828">
   <img src="https://img.shields.io/badge/-Azure-0078d4?style=for-the-badge&logo=microsoftazure&logoColor=0078d4&labelColor=282828">
-  <img src="https://img.shields.io/badge/-Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=ffca28&labelColor=282828">
 
 
   <img src="https://img.shields.io/badge/-Docker-2496ed?style=for-the-badge&logo=docker&logoColor=2496ed&labelColor=282828">
