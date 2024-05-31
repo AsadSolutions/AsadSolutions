@@ -20,16 +20,18 @@
   </br>
   </br>
   
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src=https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AsadSolutions&hide_border=true&langs_count=5&show_icons=true&card_width=495&theme=tokyonight&hide=javascript,html,css>
+  <a href="https://github.com/AsadSolutions/github-readme-stats">
+    <img src=https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AsadSolutions&hide_border=true&langs_count=7&show_icons=true&card_width=495&theme=tokyonight />
+  </a>
   
   </br>
   </br>
 
-  <a href="https://github.com/AsadSolutions/github-readme-stats">
-    <img src=https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AsadSolutions&hide_border=true&langs_count=7&show_icons=true&card_width=495&theme=tokyonight&hide=css />
-  </a>
+ 
 
+ <a href="https://github.com/AsadSolutions/github-readme-stats">
+    <img src=https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AsadSolutions&hide_border=true&show_icons=true&theme=tokyonight&card_width=495 />
+  </a>
  
 
     
