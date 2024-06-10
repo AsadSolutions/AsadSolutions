@@ -13,9 +13,9 @@
 <p align="center">
   </br>
   
-#  <a >
+  <a >
     <img src=https://streak-stats.demolab.com/?user=AsadSolutions&&theme=tokyonight&&hide_border=true&card_width=495>
-  </a> #
+  </a> 
    
   </br>
   </br>
@@ -29,9 +29,7 @@
 
  
 
- <a>
-    <img src=https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AsadSolutions&hide_border=true&show_icons=true&theme=tokyonight&card_width=495 />
-  </a>
+
  
 
     
