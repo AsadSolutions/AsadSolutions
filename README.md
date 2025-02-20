@@ -15,9 +15,7 @@
 <p align="center">
   </br>
   
-  <a >
-    <img src=https://streak-stats.demolab.com/?user=AsadSolutions&&theme=tokyonight&&hide_border=true&card_width=495>
-  </a> 
+
 
   
    
@@ -67,8 +65,28 @@
 
 
 
+
+
 <p align="left"> <a href="https://asads.netlify.app/" target="blank">
 <img src="https://img.shields.io/badge/click_to_check_my-Portfolio-blue" alt="asads.netlify.app" /></a> </p>
+
+
+<p align="center">
+  <a href="https://github.com/AsadSolutions">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=AsadSolutions&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph"/>
+  </a>
+</p>
+
+
+<br/>
+
+<!-- Profile Views Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AsadSolutions&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
+</p>
+
+
+
 
 
 <h1 align="center"><b>Hi , I'm Asad Saeed </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
@@ -135,18 +153,9 @@
 </p>
 
 <!-- GitHub Activity Graph -->
-<p align="center">
-  <a href="https://github.com/AsadSolutions">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=AsadSolutions&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph"/>
-  </a>
-</p>
 
-<br/>
 
-<!-- Profile Views Counter -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AsadSolutions&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
-</p>
+
 
 
 
