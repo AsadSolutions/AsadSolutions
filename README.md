@@ -23,20 +23,22 @@ Architect of scalable SaaS solutions and autonomous AI systems with **4.5 years 
 
 ---
 
-### <b>📊 GitHub Statistics</b>
+
 
 <p align="center">
-  <a href="https://github.com/AsadSolutions">
-    <img src="https://github-readme-stats.vercel.app/api?username=AsadSolutions&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Asad's GitHub Stats" height="180" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsadSolutions&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
-  </a>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AsadSolutions&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Asad's Stats" height="170" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AsadSolutions&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170" />
 </p>
 
+
+
 <p align="center">
-  <a href="https://github.com/AsadSolutions">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AsadSolutions&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AsadSolutions&theme=react-dark&hide_border=true&area=true" width="100%" />
 </p>
+
+---
+
+
 
 ---
 
