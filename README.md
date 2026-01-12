@@ -1,102 +1,53 @@
-<h1 align="center"><b>Hi , I'm Asad Saeed </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi, I'm Muhammad Asad Saeed</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Developer;Cloud+and+DevOps+Specialist"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=36BCF7&size=24&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Engineer;Generative+AI+Architect;Cloud+%26+DevOps+Specialist"></a>
 </p>
 
+### <b>🚀 About Me</b>
+Architect of scalable SaaS solutions and autonomous AI systems with **4.5 years of experience**. Specialized in transforming complex business workflows into high-performance digital products.
 
-<p align="center">
+- 🛠️ Currently architecting **Field Service Management SaaS** at **Luminary Inc.**
+- 🤖 Expert in **Generative AI Integration** and real-time systems.
+- ☁️ Proficient in **Multi-Cloud (AWS/Azure)** and **DevOps** (Docker, Kubernetes, Jenkins).
+
+---
+
+### <b>🛠️ Tech Stack</b>
+
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,py,react,nextjs,vue,redux,html,css,tailwind,materialui,nodejs,express,mongo,mysql,sqlite,firebase,prisma,aws,azure,docker,kubernetes,jenkins,git,github,githubactions,gitlab,postman,wordpress" />
+    <img src="https://skillicons.dev/icons?i=js,ts,py,react,nextjs,vue,redux,html,css,tailwind,materialui,nodejs,express,mongo,mysql,sqlite,postgres,firebase,prisma,aws,azure,docker,kubernetes,jenkins,git,github,githubactions,gitlab,postman,wordpress" />
   </a>
 </p>
 
+---
 
-<p align="center">
-
-<p align="center">
-
-  <br/>
-  <a href="https://github.com/AsadSolutions">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AsadSolutions&theme=tokyonight&hide_border=true&card_width=495" alt="GitHub Streak Stats"/>
-  </a>
-</p>
-
-<br/>
-
+### <b>📊 GitHub Statistics</b>
 
 <p align="center">
   <a href="https://github.com/AsadSolutions">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsadSolutions&layout=compact&theme=tokyonight&hide_border=true&langs_count=7&card_width=495" alt="Top Languages"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=AsadSolutions&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Asad's GitHub Stats" height="180" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsadSolutions&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
   </a>
 </p>
-
-<br/>
 
 <p align="center">
   <a href="https://github.com/AsadSolutions">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AsadSolutions&theme=tokyonight" alt="GitHub Profile Summary"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AsadSolutions&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
   </a>
 </p>
 
-<br/>
- 
+---
+
+### <b>🤝 Let's Connect</b>
+
+<p align="left">
+<a href="https://www.linkedin.com/in/asad-saeed060/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://asadsaeeddev.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+<a href="https://stackoverflow.com/users/23017094/asad-saeed" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
-
-
-<a href="https://www.linkedin.com/in/asad-saeed060/" target="_blank"><img align="center" src="https://cdn0.iconfinder.com/data/icons/social-media-2474/128/linkedin_linked_interface_media_social_network-1024.png" alt="asad saeed" height="30" width="30" /></a>
-
-<a href="https://stackoverflow.com/users/23017094/asad-saeed" target="_blank"><img align="center" src="https://cdn0.iconfinder.com/data/icons/social-media-and-logos-11/32/logo_stackoverflow_Stack_overflow-1024.png" alt="asad saeed" height="30" width="30" /></a>
-
-
-
-
-
-
-<p align="left"> <a href="https://asads.netlify.app/" target="blank">
-<img src="https://img.shields.io/badge/click_to_check_my-Portfolio-blue" alt="asads.netlify.app" /></a> </p>
-
 
 <p align="center">
-  <a href="https://github.com/AsadSolutions">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=AsadSolutions&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=AsadSolutions&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views"/>
 </p>
-
-
-<br/>
-
-<!-- Profile Views Counter -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AsadSolutions&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
-</p>
-
-
-
-
-
-
-
-
-
-
