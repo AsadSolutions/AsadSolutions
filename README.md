@@ -1,19 +1,20 @@
 <h1 align="center"><b>Hi, I'm Muhammad Asad Saeed</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=36BCF7&size=24&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Engineer;Generative+AI+Architect;Cloud+%26+DevOps+Specialist"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=36BCF7&size=24&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Engineer;Generative+AI+Developer;Cloud+%26+DevOps+Specialist"></a>
 </p>
 
 ### <b>🚀 About Me</b>
-Architect of scalable SaaS solutions and autonomous AI systems with **4.5 years of experience**. Specialized in transforming complex business workflows into high-performance digital products.
+Full Stack & AI Engineer with 4.5 years of experience building high-performance SaaS.
 
 - 🛠️ Currently architecting **Field Service Management SaaS** at **Luminary Inc.**
-- 🤖 Expert in **Generative AI Integration** and real-time systems.
-- ☁️ Proficient in **Multi-Cloud (AWS/Azure)** and **DevOps** (Docker, Kubernetes, Jenkins).
+- 🤖 Building Generative AI & real-time systems.
+- ☁️ Scaling with AWS, Azure, and Kubernetes.
 
 ---
 
-### <b>🛠️ Tech Stack</b>
+### <b>Tech Stack</b>
+
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -50,6 +51,3 @@ Architect of scalable SaaS solutions and autonomous AI systems with **4.5 years 
 <a href="https://stackoverflow.com/users/23017094/asad-saeed" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AsadSolutions&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views"/>
-</p>
