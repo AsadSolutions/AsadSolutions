@@ -5,11 +5,10 @@
 </p>
 
 ### <b>🚀 About Me</b>
-Full Stack & AI Engineer with 4.5 years of experience building high-performance SaaS.
-
-- 🛠️ Currently architecting **Field Service Management SaaS** at **Luminary Inc.**
-- 🤖 Building Generative AI & real-time systems.
-- ☁️ Scaling with AWS, Azure, and Kubernetes.
+Performance-driven Generative AI & Full Stack Engineer with 4.5+ years of experience architecting scalable SaaS solutions and
+autonomous AI systems. Specialized in transforming complex business workflows into high-performance digital products, achieving up to
+40% increases in operational efficiency. Expert in bridging the gap between distributed SQL/NoSQL architectures, real-time
+communication, and production-ready Generative AI integration to drive measurable business growth.
 
 ---
 
