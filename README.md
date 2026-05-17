@@ -1,13 +1,13 @@
 <h1 align="center">Muhammad Asad Saeed</h1>
 
 <p align="center">
-  <b>Full Stack & Generative AI Engineer · Technical Lead</b><br/>
+  <b>Senior Full Stack & Generative AI Engineer · Technical Lead</b><br/>
   Lahore, Pakistan (Remote) · UTC+5
 </p>
 
 <p align="center">
   <a href="https://readme-typing-svg.herokuapp.com">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=36BCF7&size=20&center=true&vCenter=true&width=600&height=60&lines=Full+Stack+%26+Generative+AI+Engineer;Technical+Lead+%40+Bondly+Petcare+B.V.;Next.js+%7C+React+Native+%7C+Node.js;LangGraph+%7C+Agentic+RAG+%7C+MCP" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=36BCF7&size=20&center=true&vCenter=true&width=600&height=60&lines=Senior+Full+Stack+%26+Generative+AI+Engineer;Technical+Lead+%40+Bondly+Petcare+B.V.;LangGraph+%7C+Agentic+RAG+%7C+N8N+%7C+MCP;Available+for+Remote+Roles+Immediately" alt="Typing SVG" />
   </a>
 </p>
 
@@ -15,12 +15,12 @@
 
 ### About me
 
-Full Stack & Generative AI Engineer with **4.5+ years** building production-grade SaaS platforms, cross-platform mobile apps, and autonomous AI systems for clients across the **US, Canada, and Netherlands**.
+Senior Full Stack & Generative AI Engineer with **4.5+ years** delivering production-grade SaaS platforms, React Native mobile apps, and LangGraph agentic AI pipelines for global clients and startups.
 
-- Currently **Technical Lead** at Bondly Petcare B.V. (Netherlands) and **Senior Full Stack Developer** at Luminary Inc. (Canada)
-- Building **[StartupLens AI](https://github.com/AsadSolutions/startuplens-ai)** — a distributed multi-agent startup validator with 15 specialized agents, LangGraph orchestration, and Agentic RAG
-- Proven results: **40% operational efficiency gains**, **30% productivity improvement**, live pet-care marketplace serving the Dutch market built from scratch
-- Open to: **Senior Full Stack, Generative AI, Tech Lead, and Mobile roles** — Remote only
+- Currently **Technical Lead** at Bondly Petcare B.V. (Netherlands) — architected and delivered a full pet-care marketplace from scratch, live in Amsterdam and Rotterdam
+- Building **[StartupLens AI](https://github.com/AsadSolutions/Aesther-AI)** — 15 specialized agents across 5 parallel teams, LangGraph StateGraph orchestration, Agentic RAG with multi-hop retrieval, and MCP for real-time web search
+- Proven results: **40% operational efficiency gain**, **N8N automation cutting manual operations to zero**, and a live marketplace built entirely from scratch
+- **Available immediately** for remote Senior Full Stack or Generative AI Engineer roles
 
 ---
 
@@ -37,13 +37,19 @@ Full Stack & Generative AI Engineer with **4.5+ years** building production-grad
 
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langchain&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-7C3AED?style=flat&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![Anthropic Claude](https://img.shields.io/badge/Claude-D97706?style=flat&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=flat&logoColor=white)
 ![Agentic RAG](https://img.shields.io/badge/Agentic_RAG-FF6B35?style=flat&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-6366F1?style=flat&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-F55036?style=flat&logoColor=white)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-7C3AED?style=flat&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat&logoColor=white)
 ![N8N](https://img.shields.io/badge/N8N-EA4B71?style=flat&logo=n8n&logoColor=white)
+![VAPI](https://img.shields.io/badge/VAPI-000000?style=flat&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat&logoColor=white)
 
 **Frontend & Mobile**
 
@@ -54,6 +60,7 @@ Full Stack & Generative AI Engineer with **4.5+ years** building production-grad
 ![Expo](https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white)
 ![Shadcn/UI](https://img.shields.io/badge/Shadcn/UI-000000?style=flat&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat&logo=framer&logoColor=white)
 
 **Backend & Cloud**
 
@@ -61,18 +68,23 @@ Full Stack & Generative AI Engineer with **4.5+ years** building production-grad
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socket.io&logoColor=white)
+![Stripe Connect](https://img.shields.io/badge/Stripe_Connect-635BFF?style=flat&logo=stripe&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat&logo=azure-devops&logoColor=white)
 
-**Databases**
+**Databases & Caching**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![Qdrant](https://img.shields.io/badge/Qdrant_Vector_DB-DC244C?style=flat&logoColor=white)
 ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat&logoColor=white)
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat&logo=amazon-dynamodb&logoColor=white)
+![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=flat&logo=firebase&logoColor=black)
 
 ---
 
@@ -95,7 +107,7 @@ Full Stack & Generative AI Engineer with **4.5+ years** building production-grad
   <a href="https://www.linkedin.com/in/asad-saeed060/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://asadsaeeddev.netlify.app/" target="_blank">
+  <a href="https://asadsaeed.info/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="mailto:asadsaeed.tech@gmail.com">
