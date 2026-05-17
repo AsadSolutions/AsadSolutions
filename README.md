@@ -18,7 +18,7 @@
 Senior Full Stack & Generative AI Engineer with **4.5+ years** delivering production-grade SaaS platforms, React Native mobile apps, and LangGraph agentic AI pipelines for global clients and startups.
 
 - Currently **Technical Lead** at Bondly Petcare B.V. (Netherlands) — architected and delivered a full pet-care marketplace from scratch, live in Amsterdam and Rotterdam
-- Building **[StartupLens AI](https://github.com/AsadSolutions/Aesther-AI)** — 15 specialized agents across 5 parallel teams, LangGraph StateGraph orchestration, Agentic RAG with multi-hop retrieval, and MCP for real-time web search
+- Building **[StartupLens AI]** — 15 specialized agents across 5 parallel teams, LangGraph StateGraph orchestration, Agentic RAG with multi-hop retrieval, and MCP for real-time web search
 - Proven results: **40% operational efficiency gain**, **N8N automation cutting manual operations to zero**, and a live marketplace built entirely from scratch
 - **Available immediately** for remote Senior Full Stack or Generative AI Engineer roles
 
