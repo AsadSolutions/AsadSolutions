@@ -5,8 +5,6 @@
   Lahore, Pakistan (Remote) · UTC+5
 </p>
 
-
-
 <p align="center">
   <a href="https://readme-typing-svg.herokuapp.com">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=36BCF7&size=20&center=true&vCenter=true&width=600&height=60&lines=Senior+Full+Stack+%26+Generative+AI+Engineer;Technical+Lead+%40+Bondly+Petcare+B.V.;LangGraph+%7C+Agentic+RAG+%7C+N8N+%7C+MCP;Available+for+Remote+Roles+Immediately" alt="Typing SVG" />
