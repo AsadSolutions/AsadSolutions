@@ -1,7 +1,7 @@
 <h1 align="center">Muhammad Asad Saeed</h1>
 
 <p align="center">
-  <b>Senior Full Stack & Generative AI Engineer · Technical Lead</b><br/>
+  <b>Full Stack & Generative AI Engineer</b><br/>
   Lahore, Pakistan (Remote) · UTC+5
 </p>
 
@@ -18,12 +18,13 @@
 
 ### About me
 
-Senior Full Stack & Generative AI Engineer with **4.5+ years** delivering production-grade SaaS platforms, React Native mobile apps, and LangGraph agentic AI pipelines for global clients and startups.
+**Full stack and generative AI engineer** with 4.5 years building production software across web, mobile, and AI backends, usually owned end to end.
 
-- Currently **Technical Lead** at Bondly Petcare B.V. (Netherlands) — architected and delivered a full pet-care marketplace from scratch, live in Amsterdam and Rotterdam
-- Building **StartupLens AI** — 15 specialized agents across 5 parallel teams, LangGraph StateGraph orchestration, Agentic RAG with multi-hop retrieval, and MCP for real-time web search
-- Proven results: **40% operational efficiency gain**, **N8N automation cutting manual operations to zero**, and a live marketplace built entirely from scratch
-- **Available immediately** for remote Senior Full Stack or Generative AI Engineer roles
+Currently technical lead at **Bondly Petcare B.V.**, where I rebuilt the pet-care marketplace from scratch. React Native, Node.js, AWS, live in production for the European market.
+
+Before that, a field service SaaS, a logistics platform, and AI automation pipelines that replaced manual workflows, including a 24/7 voice agent wired into N8N and a live CRM.
+
+On the AI side I work with **LangGraph** and **LangChain**, building agentic systems and RAG pipelines. Currently building **StartupLens AI**, a 15 agent system with LangGraph orchestration and agentic RAG, to push how far the architecture goes.
 
 ---
 
